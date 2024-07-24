@@ -2,7 +2,7 @@
 
 🌟 Sou um entusiasta do desenvolvimento web!
 
-💻 Atualmente, estou me aprofundando nas tecnologias fundamentais da web, incluindo HTML, CSS, JavaScript e React. Minha paixão é transformar ideias em interfaces dinâmicas e funcionais.
+💻 Atualmente, estou me aprofundando nas tecnologias fundamentais da web, incluindo <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">, CSS, JavaScript e React. Minha paixão é transformar ideias em interfaces dinâmicas e funcionais.
 
 🚀 Estou sempre em busca de novas oportunidades para aprender e colaborar em projetos que desafiem minhas habilidades e ampliem meus horizontes. No meu tempo livre, gosto de explorar as últimas tendências em design e desenvolvimento front-end.
 
