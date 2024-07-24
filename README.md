@@ -8,3 +8,6 @@
 🔗 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo para discutir qualquer coisa relacionada ao desenvolvimento web!
 
 Sinta-se à vontade para ajustar o texto conforme necessário para refletir melhor sua personalidade e objetivos!
+
+
+[![Carlos stats](https://github-readme-stats.vercel.app/api?username=carlosbrnet)](https://github.com/anuraghazra/github-readme-stats)
