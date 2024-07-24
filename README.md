@@ -11,3 +11,5 @@ Sinta-se à vontade para ajustar o texto conforme necessário para refletir melh
 
 
 [![Carlos stats](https://github-readme-stats.vercel.app/api?username=carlosbrnet)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Carlos Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbrnet)](https://github.com/anuraghazra/github-readme-stats)
